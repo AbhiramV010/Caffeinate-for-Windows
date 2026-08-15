@@ -1,0 +1,7 @@
+.claude/
+
+# C++ build output
+*.obj
+*.exe
+*.pdb
+*.ilk
